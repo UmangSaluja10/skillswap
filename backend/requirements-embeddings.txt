@@ -1,0 +1,3 @@
+# Optional: the real embedding model (about 90 MB, downloaded on first use, then works offline).
+# Without it the app uses a built-in lighter embedder, so nothing breaks.
+sentence-transformers>=3.0
